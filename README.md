@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-Meu nome é Vitor Sales, sou apaixonado por código trabalhando como desenvolvedor desde do ano de 2017 👨‍💻
+Meu nome é Vitor Sales, sou um apaixonado por código que trabalha como desenvolvedor desde do ano de 2017, atualmente sou Desenvolvedor Full Stack criando diversas aplicações Web/Mobile. 👨‍💻
 
 
 Gostaria de me encontrar?
