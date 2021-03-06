@@ -1,3 +1,6 @@
+<div text-align="justify">
+
+
 ### Welcome to my github 👋
 
 Hello, I am Vitor. I'm a mobile developer passionate about development.
@@ -11,7 +14,3 @@ Hello, I am Vitor. I'm a mobile developer passionate about development.
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
 
-
-How to reach me:
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitorsalesg)](https://www.linkedin.com/in/vitorsalesg)
