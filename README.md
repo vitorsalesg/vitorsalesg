@@ -1,4 +1,4 @@
-# Vitor Sales 
+# <a href="https://www.linkedin.com/in/vitorsalesg/">Vitor Sales</a>
 
 Mobile Developer
 
