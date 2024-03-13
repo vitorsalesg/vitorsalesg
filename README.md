@@ -1,7 +1,5 @@
 # <a href="https://www.linkedin.com/in/vitorsalesg/">Vitor Sales</a>
 
-Mobile Developer
-
 Atualmente trabalho como desenvolvedor mobile (Android/iOS) usando Flutter. Aprender faz parte do meu dia e os desafios sempre me mantêm motivado para descobrir as melhores soluções.
 > I currently work as a mobile developer (Android/iOS) using Flutter. Learning is part of my day and the challenges always keep me motivated to discover the best solutions.
 
